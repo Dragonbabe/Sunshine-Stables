@@ -6,6 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "init": "^0.1.2",
+    "mysql": "^2.18.1",
     "watch": "^1.0.2"
   },
   "devDependencies": {},
