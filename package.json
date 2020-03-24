@@ -1,0 +1,27 @@
+{
+  "name": "Sunshine-Stables",
+  "version": "1.0.0",
+  "description": "A stable of horses and ponies safely housed in your database!",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragonbabe/Sunshine-Stables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dragonbabe/Sunshine-Stables/issues"
+  },
+  "homepage": "https://github.com/Dragonbabe/Sunshine-Stables#readme"
+}
