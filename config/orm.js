@@ -1,5 +1,5 @@
 'use strict';
-
+//ESTABLISH THE PATH VIA THE CONNECTION
 const connection = require('./connection/connection.js');
 
 function printQuestionMarks(num) {
